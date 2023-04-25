@@ -1,1 +1,1 @@
-# Company_bankruptcy_rediction
+# Company_bankruptcy_prediction
